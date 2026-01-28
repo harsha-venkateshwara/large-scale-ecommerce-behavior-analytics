@@ -4,7 +4,7 @@ Large-Scale eCommerce Behavior Analytics
 
 Overview
 
-This project analyzes large-scale user behavior data from a multi-category eCommerce platform to uncover actionable insights related to customer conversion, product segmentation, and sales forecasting. The dataset contains over \*\*67.5 million user events\*\*, including product views, cart additions, and purchases.
+This project analyzes large-scale user behavior data from a multi-category eCommerce platform to uncover actionable insights related to customer conversion, product segmentation, and sales forecasting. The dataset contains over 67.5 million user events, including product views, cart additions, and purchases.
 
 
 
