@@ -1,0 +1,20 @@
+# Core Python
+python>=3.8
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Big Data / Distributed Computing
+pyspark>=3.4.0
+
+# Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
