@@ -10,9 +10,9 @@ This project analyzes large-scale user behavior data from a multi-category eComm
 
 The project was executed in two phases:
 
-\- \*\*Phase I\*\*: Local exploratory analysis using Pandas on a sampled dataset
+Phase I : Local exploratory analysis using Pandas on a sampled dataset
 
-\- \*\*Phase II\*\*: Distributed data processing and machine learning using \*\*PySpark\*\*
+Phase II : Distributed data processing and machine learning using \*\*PySpark\*\*
 
 
 
